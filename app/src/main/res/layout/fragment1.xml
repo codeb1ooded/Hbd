@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don\’t worry about getting so old. I will have the fire extinguisher ready in case your birthday cake gets out of control. Love you my ancient friend!"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
